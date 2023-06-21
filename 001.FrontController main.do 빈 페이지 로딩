@@ -1,0 +1,12 @@
+# FrontController main.do 빈 페이지 로딩
+
+![jsp 안들어옴](https://github.com/7ahyeon/error-resolving/assets/107123698/46ff9208-9be8-4bcb-b563-2ec8fd3a113e)
+빈 페이지 로딩
+
+![jsp 주석해제로 해결2](https://github.com/7ahyeon/error-resolving/assets/107123698/6e68b292-4917-4429-a218-70e9f6eed222)
+FrontController 전체 코드
+
+![jsp 주석해제로 해결](https://github.com/7ahyeon/error-resolving/assets/107123698/013eacd7-004c-4b26-9804-7f1a4f0a55d5)
+주석 해제로 페이지 정상 로딩 성공
+
+해결 사유 : 
