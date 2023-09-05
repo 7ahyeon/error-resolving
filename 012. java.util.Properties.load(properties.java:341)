@@ -1,2 +1,6 @@
 # java.util.Properties.load(properties.java:341)
   - properties 파일 없어서 난 오류
+
+# 해결 방법
+- build/classes/java/properties 파일 경로 확인!!
+- properties파일이 존재하지 않는다면 수동으로 추가한다
